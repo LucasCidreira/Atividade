@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from dash import Dash, html, dcc
 
-df = pd.read_csv('C:/Users/lucas/Projeto EBAC/Planilhas/ecommerce_estatistica.csv')
+df = pd.read_csv('C:..../ecommerce_estatistica.csv')
 
 
 ## Histograma
